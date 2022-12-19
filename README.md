@@ -9,6 +9,8 @@ Knowing who your customers are and how and why they shop or do not return plays 
   
 This study will hope to find similar traits among its customers.  This will help the marketing team know who best to send offers to or to whom might they need to send a discount coupon because it looks like they haven’t purchased in a while.
 
+![Customer Segmentation](./data/readme/customer_segmentation.png)
+
 
 ## Built With
 Python, pandas, matplotlib, seaborn, scipy, sklearn
